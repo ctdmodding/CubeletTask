@@ -1,0 +1,11 @@
+main: dev.ctdmodding.cubelettask.CubeletPlugin
+name: Cubelets
+version: '1.0'
+description: ctdmodding's CubeCraft Games Assignment
+author: ctd
+prefix: Cubelets
+api-version: '1.13'
+
+commands:
+  cubelet:
+    description: Spawn a cubelet
